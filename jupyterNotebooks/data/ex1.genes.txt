@@ -1,0 +1,15 @@
+# The following table is formatted as tab separated values. 
+#GeneName	GeneId	TranscriptId	BioType	variants_impact_HIGH	variants_impact_LOW	variants_impact_MODERATE	variants_impact_MODIFIER	variants_effect_3_prime_UTR_variant	variants_effect_5_prime_UTR_variant	variants_effect_downstream_gene_variant	variants_effect_intron_variant	variants_effect_missense_variant	variants_effect_non_coding_transcript_exon_variant	variants_effect_splice_acceptor_variant	variants_effect_splice_donor_variant	variants_effect_splice_region_variant	variants_effect_start_lost	variants_effect_stop_gained	variants_effect_stop_retained_variant	variants_effect_synonymous_variant	variants_effect_upstream_gene_variant
+AF213884.2	ENSG00000260651	ENST00000563833	antisense	0	0	0	1467	0	0	0	0	0	0	0	0	0	0	0	0	0	1467
+NFKB1	ENSG00000109320	ENST00000226574	protein_coding	55	399	475	33957	211	46	1	33810	475	0	23	4	132	2	26	1	314	0
+NFKB1	ENSG00000109320	ENST00000394820	protein_coding	55	399	475	33957	75	46	137	33811	475	0	23	4	133	2	26	1	313	0
+NFKB1	ENSG00000109320	ENST00000502367	retained_intron	2	8	0	12204	0	0	1673	8816	0	127	1	1	8	0	0	0	0	1598
+NFKB1	ENSG00000109320	ENST00000504044	retained_intron	2	13	0	4127	0	0	1538	796	0	163	2	0	13	0	0	0	0	1645
+NFKB1	ENSG00000109320	ENST00000505458	protein_coding	55	404	475	33957	147	59	65	33737	475	0	23	4	138	2	26	1	313	61
+NFKB1	ENSG00000109320	ENST00000507079	protein_coding	17	88	112	24039	0	54	1452	22552	112	0	7	2	42	1	7	0	60	16
+NFKB1	ENSG00000109320	ENST00000508584	protein_coding	14	94	87	7547	0	43	1577	4726	87	0	5	2	34	1	6	0	74	1227
+NFKB1	ENSG00000109320	ENST00000509165	protein_coding	15	63	83	24044	0	47	1443	22092	83	0	6	2	38	2	5	0	38	493
+NFKB1	ENSG00000109320	ENST00000510638	processed_transcript	5	24	0	10086	0	0	1603	6702	0	186	4	1	24	0	0	0	0	1624
+NFKB1	ENSG00000109320	ENST00000511926	protein_coding	10	48	42	12386	0	55	1516	10826	42	0	5	1	33	1	3	0	26	15
+NFKB1	ENSG00000109320	ENST00000513803	processed_transcript	5	19	0	15581	0	0	1625	12216	0	167	4	1	19	0	0	0	0	1597
+NFKB1	ENSG00000109320	ENST00000600343	protein_coding	38	318	374	12444	129	267	83	10797	374	0	16	2	92	1	19	1	259	1244
